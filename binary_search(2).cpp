@@ -1,3 +1,4 @@
+//浮点数二分
 #include<iostream>
 using namespace std;
 
@@ -21,5 +22,4 @@ int main()
     double n;
     cin>>n;
     cout<<bsearch(n);
-
 }

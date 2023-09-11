@@ -1,3 +1,4 @@
+//整数二分
 #include<iostream>
 using namespace std;
 
