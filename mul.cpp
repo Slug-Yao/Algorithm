@@ -1,3 +1,4 @@
+//高精度乘法（一个高精度整数乘一个低精度整数）
 #include<iostream>
 #include<vector>
 using namespace std;
